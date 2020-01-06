@@ -1,0 +1,16 @@
+V:\projects\cs\DB\Library\bin\Debug\Library.exe.config
+V:\projects\cs\DB\Library\bin\Debug\Library.exe
+V:\projects\cs\DB\Library\bin\Debug\Library.pdb
+V:\projects\cs\DB\Library\bin\Debug\EntityFramework.dll
+V:\projects\cs\DB\Library\bin\Debug\EntityFramework.SqlServer.dll
+V:\projects\cs\DB\Library\bin\Debug\MySql.Data.dll
+V:\projects\cs\DB\Library\bin\Debug\MySql.Data.Entity.EF6.dll
+V:\projects\cs\DB\Library\bin\Debug\EntityFramework.xml
+V:\projects\cs\DB\Library\bin\Debug\EntityFramework.SqlServer.xml
+V:\projects\cs\DB\Library\bin\Debug\MySql.Data.xml
+V:\projects\cs\DB\Library\bin\Debug\MySql.Data.Entity.EF6.xml
+V:\projects\cs\DB\Library\bin\Debug\ru\EntityFramework.resources.dll
+V:\projects\cs\DB\Library\obj\Debug\Library.csproj.CopyComplete
+V:\projects\cs\DB\Library\obj\Debug\Library.exe
+V:\projects\cs\DB\Library\obj\Debug\Library.pdb
+V:\projects\cs\DB\Library\obj\Debug\Library.csprojAssemblyReference.cache
